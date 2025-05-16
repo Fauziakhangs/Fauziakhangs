@@ -1,4 +1,4 @@
-👋 Hi, I’m @Fauziakhan
+👋 Hi, I’m @Fauzia Khan
 
 👀 I’m a Data Analyst with a strong interest in regression models, time series forecasting, and data visualization.
 
